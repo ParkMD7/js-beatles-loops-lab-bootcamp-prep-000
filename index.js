@@ -25,4 +25,5 @@ function iLoveTheBeatles(n) {
     array.push(string)
     n++ }
   while (n < 15)
+  return array
 }
